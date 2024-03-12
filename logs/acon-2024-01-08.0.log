@@ -1,0 +1,15 @@
+[2024-01-08 11:01:44] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 12576 (D:\source\HDO\API\ApiServer\target\classes started by gzone in D:\source\HDO\API\ApiServer)
+[2024-01-08 11:01:44] - No active profile set, falling back to default profiles: default
+[2024-01-08 11:01:47] - [2024-01-08 11:40:47] 요청 수신 => {I_TYPE=}
+[2024-01-08 11:01:47] - Started ApiServerApplication in 4.218 seconds (JVM running for 4.938)
+[2024-01-08 11:01:29] - [2024-01-08 11:41:29] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-08 11:01:29] - [2024-01-08 11:41:29] 요청 수신 => {I_TYPE=}
+[2024-01-08 11:01:11] - [2024-01-08 11:42:11] MOP_JOB.EVERY_10_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-08 11:01:11] - [2024-01-08 11:42:11] 요청 수신 => {I_TYPE=}
+[2024-01-08 11:01:15] - [2024-01-08 11:42:15] 요청 수신 => {I_APP_CODE=01, I_OS_TYPE=01}
+[2024-01-08 11:01:53] - [2024-01-08 11:42:53] MOP_JOB.EVERY_1_HOUR (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-08 11:01:53] - [2024-01-08 11:42:53] 요청 수신 => {I_TYPE=}
+[2024-01-08 11:01:57] - [2024-01-08 11:42:57] MOP_LOGIN.APP_CHK (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-08 11:01:36] - [2024-01-08 11:43:36] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-08 11:01:36] - [2024-01-08 11:44:36] 요청 수신 => {I_TYPE=}
+[2024-01-08 11:01:18] - [2024-01-08 11:45:18] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)

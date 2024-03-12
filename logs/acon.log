@@ -1,0 +1,41 @@
+[2024-01-11 14:01:00] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 12244 (D:\source\HDO\API\ApiServer\target\classes started by gzone in D:\source\HDO\API\ApiServer)
+[2024-01-11 14:01:00] - No active profile set, falling back to default profiles: default
+[2024-01-11 14:01:03] - [2024-01-11 14:38:03] 요청 수신 => {I_TYPE=}
+[2024-01-11 14:01:03] - Started ApiServerApplication in 4.177 seconds (JVM running for 5.075)
+[2024-01-11 14:01:45] - [2024-01-11 14:38:45] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-11 14:01:45] - [2024-01-11 14:38:45] 요청 수신 => {I_TYPE=}
+[2024-01-11 14:01:27] - [2024-01-11 14:39:27] MOP_JOB.EVERY_10_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-11 14:01:27] - [2024-01-11 14:39:27] 요청 수신 => {I_TYPE=}
+[2024-01-11 14:01:09] - [2024-01-11 14:40:09] MOP_JOB.EVERY_1_HOUR (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-11 14:01:09] - [2024-01-11 14:40:09] 요청 수신 => {I_TYPE=}
+[2024-01-11 14:01:51] - [2024-01-11 14:40:51] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-11 14:01:51] - [2024-01-11 14:41:51] 요청 수신 => {I_TYPE=}
+[2024-01-11 14:01:34] - [2024-01-11 14:42:34] MOP_JOB.EVERY_1_MIN (java.sql.SQLRecoverableException: IO 오류: The Network Adapter could not establish the connection)
+[2024-01-11 14:01:24] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 1956 (D:\source\HDO\API\ApiServer\target\classes started by gzone in D:\source\HDO\API\ApiServer)
+[2024-01-11 14:01:24] - No active profile set, falling back to default profiles: default
+[2024-01-11 14:01:27] - Started ApiServerApplication in 3.72 seconds (JVM running for 4.269)
+[2024-01-11 16:01:31] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 16204 (D:\source\API\target\classes started by gzone in D:\source\API)
+[2024-01-11 16:01:31] - No active profile set, falling back to default profiles: default
+[2024-01-11 16:01:34] - Started ApiServerApplication in 3.711 seconds (JVM running for 4.459)
+[2024-01-11 16:01:03] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 4128 (D:\source\API\target\classes started by gzone in D:\source\API)
+[2024-01-11 16:01:03] - No active profile set, falling back to default profiles: default
+[2024-01-11 16:01:06] - Started ApiServerApplication in 3.635 seconds (JVM running for 4.183)
+[2024-01-11 16:01:48] - [2024-01-11 16:50:48] 요청 수신 => {I_ID=, I_PASS=, I_TAB_NO=}
+[2024-01-11 17:01:32] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 9984 (D:\source\API\target\classes started by gzone in D:\source\API)
+[2024-01-11 17:01:32] - No active profile set, falling back to default profiles: default
+[2024-01-11 17:01:36] - Started ApiServerApplication in 4.178 seconds (JVM running for 4.819)
+[2024-01-11 17:01:12] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 8808 (D:\source\API\target\classes started by gzone in D:\source\API)
+[2024-01-11 17:01:12] - No active profile set, falling back to default profiles: default
+[2024-01-11 17:01:15] - Started ApiServerApplication in 3.817 seconds (JVM running for 4.357)
+[2024-01-11 17:01:13] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 4112 (D:\source\API\target\classes started by gzone in D:\source\API)
+[2024-01-11 17:01:13] - No active profile set, falling back to default profiles: default
+[2024-01-11 17:01:17] - Started ApiServerApplication in 4.212 seconds (JVM running for 4.982)
+[2024-01-11 17:01:25] - Starting ApiServerApplication on DESKTOP-L8QOKKF with PID 5772 (D:\source_hanex\API\target\classes started by gzone in D:\source_hanex\API)
+[2024-01-11 17:01:25] - No active profile set, falling back to default profiles: default
+[2024-01-11 17:01:28] - Started ApiServerApplication in 3.619 seconds (JVM running for 4.361)
+[2024-03-12 09:03:18] - Starting ApiServerApplication on GZONE-MAC-AP-2.local with PID 5420 (/Users/taeyeonhwang/svn_gzone/HANEX/API/target/classes started by taeyeonhwang in /Users/taeyeonhwang/svn_gzone/HANEX/API)
+[2024-03-12 09:03:18] - No active profile set, falling back to default profiles: default
+[2024-03-12 09:03:20] - Started ApiServerApplication in 3.112 seconds (JVM running for 3.661)
+[2024-03-12 09:03:02] - Starting ApiServerApplication on GZONE-MAC-AP-2.local with PID 5557 (/Users/taeyeonhwang/svn_gzone/HANEX/API/target/classes started by taeyeonhwang in /Users/taeyeonhwang/svn_gzone/HANEX/API)
+[2024-03-12 09:03:02] - No active profile set, falling back to default profiles: default
+[2024-03-12 09:03:04] - Started ApiServerApplication in 2.665 seconds (JVM running for 3.122)

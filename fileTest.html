@@ -1,0 +1,65 @@
+<html>
+<header>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</header>
+<body>
+<script type="text/javascript">
+	function fileDownload(){
+		var filePath = "/api/File/download/"+document.getElementById("filePath").value;
+		document.getElementById("fileDowndImg").src = filePath;
+	}
+</script>
+	
+<div id="body">
+
+    <h2>Multipart/form-data</h2>
+
+    <section class="main-content clear-fix">
+
+        <form name="form1" method="post" enctype="multipart/form-data" action="http://localhost:9032/api/file/upload/regcard/jpg/true">
+            <fieldset>
+                <legend>File Upload Example(암호화 사용)</legend>
+			<div><label for="image1">Image File</label></div>
+			<div><input name="files" type="file" /></div>
+			<!--
+			<div><input name="files" type="file" /></div>
+			<div><input name="files" type="file" /></div>
+			-->
+            <div>
+                <input type="submit" value="Submit" />
+            </div>
+                </fieldset>
+        </form>
+		
+        <form name="form1" method="post" enctype="multipart/form-data" action="http://localhost:9032/api/file/upload/regcard/jpg/false">
+            <fieldset>
+                <legend>File Upload Example(암호화 미사용)</legend>
+			<div><label for="image1">Image File</label></div>
+			<div><input name="files" type="file" /></div>
+			<!--
+			<div><input name="files" type="file" /></div>
+			<div><input name="files" type="file" /></div>
+			-->
+            <div>
+                <input type="submit" value="Submit" />
+            </div>
+                </fieldset>
+        </form>
+		
+        <form name="form3" method="get">
+            <fieldset>
+                <legend>File Download</legend>
+			<div><label for="image1">파일경로</label></div>
+			<div>/api/File/download/<input id="filePath" type="text" style="width:500px"/></div>
+            <div>
+                <input type="button" value="Submit" onClick="fileDownload()"/>
+            </div>
+            <div>
+                <img id="fileDowndImg" src="blank">
+            </div>			
+                </fieldset>
+        </form>			
+    </section>
+</div>
+</body>
+</html>

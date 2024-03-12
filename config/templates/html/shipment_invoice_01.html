@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>${dispatchNo}</title>
+
+<style type="text/css">
+
+#IsCenter{
+	text-align: center;
+}
+
+.test{
+	/* 배경이미지 */
+	background: url("http://service.gzonesoft.co.kr:25180/hdo/invoice_empty.png");
+	
+	/*백그라운드 위치 옵션을 center 정중앙에 위치  */
+	background-position: center center;
+	
+	/*기본적으로 백그라운드의 옵션은 repeat이다. */
+	background-repeat: no-repeat;
+	
+	/* 백그라운드 이미지를 보여주기 위한 크기 옵션  */
+	background-size:500px;
+    width: 500px;
+	height : 900px; 
+
+	/* 외부 여백 옵션 */
+	margin: 10px;
+    border:0px solid;
+}
+
+.signDriver01 {
+    position: absolute;
+    bottom: 240px;
+    left : 150px;
+}
+.signDriver02 {
+    position: absolute;
+    bottom: 240px;
+    left : 400px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="test">
+    <img class="signDriver01" src="data:image/png;base64,${signImage}" HEIGHT="40">
+    <img class="signDriver02" src="data:image/png;base64,${signImage}" HEIGHT="40">
+</div>
+
+</body>
+</html>
