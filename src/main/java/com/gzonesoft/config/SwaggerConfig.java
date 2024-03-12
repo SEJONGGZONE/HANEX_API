@@ -50,8 +50,8 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfo(
          "HANEX-TMS 구축프로젝트 - 2024",
-         "Mobile API Server",
-          "API ver 1.0", 
+         "Mobile API",
+          "API ver 1.0-0312",
           "Terms of service", 
           "", "","");
    }
